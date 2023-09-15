@@ -1,8 +1,8 @@
 **Widgets :**
-åí ÚÈÇÑÉ Úä ãÌãæÚÉ ãä ÇáÚäÇÕÑ Çæ ÇáãÑßÈÇÊ ÈÊÚãá Ôßá ãÚíä (ÊÓåá ÈäÇÁ ÇáÊØÈíŞ)
+Ù‡ÙŠ Ø¹Ø¨Ø§Ø±Ø© Ø¹Ù† Ù…Ø¬Ù…ÙˆØ¹Ø© Ù…Ù† Ø§Ù„Ø¹Ù†Ø§ØµØ± Ø§Ùˆ Ø§Ù„Ù…Ø±ÙƒØ¨Ø§Øª Ø¨ØªØ¹Ù…Ù„ Ø´ÙƒÙ„ Ù…Ø¹ÙŠÙ† (ØªØ³Ù‡Ù„ Ø¨Ù†Ø§Ø¡ Ø§Ù„ØªØ·Ø¨ÙŠÙ‚)
 
 1. Row widgets :
-ÈäÓÊÎÏãåÇ İí ÇßËÑ ãä ÚäÕÑ Úáí ÓØÑ æÇÍÏ
+Ø¨Ù†Ø³ØªØ®Ø¯Ù…Ù‡Ø§ ÙÙŠ Ø§ÙƒØ«Ø± Ù…Ù† Ø¹Ù†ØµØ± Ø¹Ù„ÙŠ Ø³Ø·Ø± ÙˆØ§Ø­Ø¯
 `const Row(
   children: <Widget>[
     Expanded(
@@ -22,7 +22,7 @@
 
 
 2. Column widgets:
-ÈäÓÊÎÏãåÇ İí ÇßËÑ ãä ÚäÕÑ ÈÔßá ÚãæÏí
+Ø¨Ù†Ø³ØªØ®Ø¯Ù…Ù‡Ø§ ÙÙŠ Ø§ÙƒØ«Ø± Ù…Ù† Ø¹Ù†ØµØ± Ø¨Ø´ÙƒÙ„ Ø¹Ù…ÙˆØ¯ÙŠ
 `const Column(
   children: <Widget>[
     Text('Deliver features faster'),
@@ -37,7 +37,7 @@
 ![column](https://github.com/omar-abdulaziz-mohammed77/flutter-toles/assets/114012728/6dbb12da-8527-46ad-bfad-a1069647d320)
 
 3. Stack widgets:
-ÈäÓÊÎÏãåÇ áäÍØ ÇßËÑ ãä ÚäÕÑ İæŞ ÈÚÖ ãËáÇ( äÕ İæŞ ÕæÑÉ Çæ ÕæÑÉ İæŞ äÕ)
+Ø¨Ù†Ø³ØªØ®Ø¯Ù…Ù‡Ø§ Ù„Ù†Ø­Ø· Ø§ÙƒØ«Ø± Ù…Ù† Ø¹Ù†ØµØ± ÙÙˆÙ‚ Ø¨Ø¹Ø¶ Ù…Ø«Ù„Ø§( Ù†Øµ ÙÙˆÙ‚ ØµÙˆØ±Ø© Ø§Ùˆ ØµÙˆØ±Ø© ÙÙˆÙ‚ Ù†Øµ)
 `SizedBox(
   width: 250,
   height: 250,
@@ -73,7 +73,7 @@
 ![stack_with_gradient](https://github.com/omar-abdulaziz-mohammed77/flutter-toles/assets/114012728/7323caf5-c60c-41aa-9950-cfba9ac5141a)
 
 4. Padding widgets:
-ÈäÓÊÎÏãåÇ áäÍØ ãÓÇİÇÊ Èíä ÇáÚäÇÕÑ 
+Ø¨Ù†Ø³ØªØ®Ø¯Ù…Ù‡Ø§ Ù„Ù†Ø­Ø· Ù…Ø³Ø§ÙØ§Øª Ø¨ÙŠÙ† Ø§Ù„Ø¹Ù†Ø§ØµØ± 
 `const Card(
   child: Padding(
     padding: EdgeInsets.all(16.0),
@@ -83,4 +83,4 @@
 ![padding](https://github.com/omar-abdulaziz-mohammed77/flutter-toles/assets/114012728/052285b3-eee8-4a04-bd4c-fdf5b8fd1b36)
 
 5. Center widgets:
-ÈäÓÊÎÏãåÇ áäÍØ ÇáÚäÇÕÑ İí ãäÊÕİ ÇáÔÇÔÉ
+Ø¨Ù†Ø³ØªØ®Ø¯Ù…Ù‡Ø§ Ù„Ù†Ø­Ø· Ø§Ù„Ø¹Ù†Ø§ØµØ± ÙÙŠ Ù…Ù†ØªØµÙ Ø§Ù„Ø´Ø§Ø´Ø©
